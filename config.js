@@ -20,7 +20,7 @@ function kyun(seconds){
 }
 					runtime = process.uptime()
 					teks = `${kyun(runtime)}`
-global.owner = ['601140438510' ] // Put your number here
+global.owner = ['601140438510'] // Put your number here
 global.fake = ['601140438510']
 global.fakeNum = ['601140438510']
 global.mods = ['601140438510'] // Want some help?
